@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>cocos_kiwi_orange_dates_salak_plum_tamarilo_maracuja.jpg</filename>
+	<path>E:\models\research\object_detection\images\train\cocos_kiwi_orange_dates_salak_plum_tamarilo_maracuja.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>340</ymin>
+			<xmax>519</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+</annotation>

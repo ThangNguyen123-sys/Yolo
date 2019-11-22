@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>mangos_bananas(lady_finger).jpg</filename>
+	<path>E:\models\research\object_detection\images\train\mangos_bananas(lady_finger).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>63</ymin>
+			<xmax>800</xmax>
+			<ymax>523</ymax>
+		</bndbox>
+	</object>
+</annotation>
